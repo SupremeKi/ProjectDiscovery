@@ -38,9 +38,9 @@ require (
 	github.com/weppos/publicsuffix-go v0.30.2-0.20230730094716-a20f9abcc222
 	github.com/xanzy/go-gitlab v0.84.0
 	go.uber.org/multierr v1.11.0
-	golang.org/x/net v0.24.0
+	golang.org/x/net v0.26.0
 	golang.org/x/oauth2 v0.11.0
-	golang.org/x/text v0.14.0
+	golang.org/x/text v0.16.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
@@ -95,12 +95,12 @@ require (
 	github.com/projectdiscovery/uncover v1.0.7
 	github.com/projectdiscovery/useragent v0.0.47
 	github.com/projectdiscovery/utils v0.0.91
-	github.com/projectdiscovery/wappalyzergo v0.0.116
+	github.com/projectdiscovery/wappalyzergo v0.1.8
 	github.com/redis/go-redis/v9 v9.1.0
 	github.com/seh-msft/burpxml v1.0.1
 	github.com/stretchr/testify v1.9.0
 	github.com/zmap/zgrab2 v0.1.8-0.20230806160807-97ba87c0e706
-	golang.org/x/term v0.19.0
+	golang.org/x/term v0.21.0
 	gopkg.in/yaml.v3 v3.0.1
 	moul.io/http2curl v1.0.0
 )
@@ -233,7 +233,7 @@ require (
 	github.com/zcalusic/sysinfo v1.0.2 // indirect
 	github.com/zeebo/blake3 v0.2.3 // indirect
 	golang.org/x/arch v0.3.0 // indirect
-	golang.org/x/sync v0.6.0 // indirect
+	golang.org/x/sync v0.7.0 // indirect
 	gopkg.in/djherbis/times.v1 v1.3.0 // indirect
 	mellium.im/sasl v0.3.1 // indirect
 )
@@ -302,12 +302,12 @@ require (
 	go.etcd.io/bbolt v1.3.8 // indirect
 	go.uber.org/zap v1.25.0 // indirect
 	goftp.io/server/v2 v2.0.1 // indirect
-	golang.org/x/crypto v0.22.0 // indirect
+	golang.org/x/crypto v0.24.0 // indirect
 	golang.org/x/exp v0.0.0-20240119083558-1b970713d09a
-	golang.org/x/mod v0.14.0 // indirect
-	golang.org/x/sys v0.19.0 // indirect
+	golang.org/x/mod v0.17.0 // indirect
+	golang.org/x/sys v0.21.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
-	golang.org/x/tools v0.17.0
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6 // indirect
